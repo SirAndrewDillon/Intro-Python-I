@@ -10,7 +10,7 @@ https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 
 # YOUR CODE HERE
 
-with open('foo.txt') as f:
+with open('src/foo.txt') as f:
 	print(f.read())
 
 # Open up a file called "bar.txt" (which doesn't exist yet) for
